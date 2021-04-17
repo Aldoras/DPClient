@@ -1,0 +1,3 @@
+E:\DPClientVS\release\DPClientVS.Shared.dll
+E:\DPClientVS\release\DPClientVS.Shared.deps.json
+E:\DPClientVS\release\DPClientVS.Shared.pdb

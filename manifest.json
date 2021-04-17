@@ -1,7 +1,7 @@
 {
   "name": "DPClientVS.Client",
   "short_name": "DPClientVS.Client",
-  "start_url": "./",
+  "start_url": "file:///E:/Diplomka/DPClientVS/Client/bin/Release/net5.0/browser-wasm/publish/wwwroot/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
