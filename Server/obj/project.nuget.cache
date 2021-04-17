@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgW9fzhcay70kxMB9N5vQkyIEXi/M8TzHG/KW+kH3rW27K/yzhgRRHjUMXLXkBy1yxTnJXJm/vHQeb6LUzMgPw==",
+  "dgSpecHash": "B0SR4H/qQAcBeWRhbmtKAyY5IhAVqQBhTpx/0Wfr3dA7mLPsTbr5Kcj6oDtjPz3SohLeykjIjvZGIEBQdaIObg==",
   "success": true,
-  "projectFilePath": "E:\\Diplomka\\DPClientVS\\Server\\DPClientVS.Server.csproj",
+  "projectFilePath": "E:\\DPClientVS\\Server\\DPClientVS.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\corvi\\.nuget\\packages\\blazored.fluentvalidation\\2.0.0\\blazored.fluentvalidation.2.0.0.nupkg.sha512",
     "C:\\Users\\corvi\\.nuget\\packages\\fluentvalidation\\10.0.0\\fluentvalidation.10.0.0.nupkg.sha512",
