@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	<DisableImplicitComponentsAnalyzers>true</DisableImplicitComponentsAnalyzers>
+	<UserSecretsId>cc763c37-5639-4e38-a3fb-3c3b513f64af</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="5.0.0" />
+    <PackageReference Include="PublishSPAforGitHubPages.Build" Version="1.2.0" />
+	    <PackageReference Include="Syncfusion.Blazor.Grid" Version="19.1.0.56" />
+    <PackageReference Include="Syncfusion.Blazor.Navigations" Version="19.1.0.56" />
+    <PackageReference Include="Syncfusion.Blazor.Buttons" Version="19.1.0.56" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Client\DPClientVS.Client.csproj" />
+    <ProjectReference Include="..\Shared\DPClientVS.Shared.csproj" />
+  </ItemGroup>
+
+
+</Project>

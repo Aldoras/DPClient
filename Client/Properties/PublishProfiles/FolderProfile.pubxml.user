@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Diplomka\DPClientVS\Client\bin\Release\net5.0\browser-wasm\publish\</_PublishTargetUrl>
+    <History>True|2021-04-16T00:35:42.2042040Z;True|2021-04-16T02:28:28.0505970+02:00;True|2021-04-16T02:07:10.2793201+02:00;</History>
+  </PropertyGroup>
+</Project>
